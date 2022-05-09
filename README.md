@@ -1,6 +1,13 @@
 # Neural_Network_Charity_Analysis
 
-# Overview of the analysis: Explain the purpose of this analysis.
+# Overview of the analysis: 
+
+The purpose of this project is use neural network to help a nonprofit organization to predict which organizations are worth donating to and which ones are high risk, designing and training models using Python Tensorflow library.
+
+# Resources
+- Python
+- Jupyter notebook/Google Colab
+- Tensorflow Library
 
 # Results: Using bulleted lists and images to support your answers, address the following questions.
 
